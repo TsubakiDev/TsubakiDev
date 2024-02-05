@@ -21,10 +21,5 @@ This is TsubakiDev, currently learning Computer Science.
 ![Docker](https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-gray?style=for-the-badge&logo=kubernetes)
 
-## My Development Environment
-![macOS](https://img.shields.io/badge/macos%20sonoma-gray?style=for-the-badge&logo=macos)
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-gray?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-gray?style=for-the-badge&logo=intellijidea)
-
 ## GitHub Stats
 ![TsubakiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsubakiDev)
