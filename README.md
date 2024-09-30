@@ -1,12 +1,20 @@
-This is TsubakiDev, currently learning Computer Science.
+# TsubakiDev
 
-*My current goal is to work at miHoYo Co., LTD.*
+### Backend Developer | Computer Science Student
 
-**Preparing for Gaokao in 2025, all project updates are slowing down**
+**Goal:** Secure a position at miHoYo Co., LTD.
 
-## Tech Stack
+Currently preparing for Gaokao in 2025, leading to a temporary slowdown in project updates.
 
-### Backend
-- ![GoLang](https://img.shields.io/badge/golang-gray?style=for-the-badge&logo=go&logoColor=%2300ADD8)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin)
-- ![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust)
+### Tech Stack
+
+![GoLang](https://img.shields.io/badge/golang-gray?style=for-the-badge&logo=go)
+![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=kotlin)
+![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust)
+![Java](https://img.shields.io/badge/Java-gray?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c)
+
+### Personal Links
+
+- [Personal Website](https://tsubakidev.cc)
+- [Resume](https://resume.tsubakidev.cc)
